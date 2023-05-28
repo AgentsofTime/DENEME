@@ -8,12 +8,13 @@
 
 *** italic bold
 
--1 kilo bulgur.
-- 32TL canım.
+-Example
 
-***Seni çok seviyorum.***
+-Empty
+
+******
 
 [**Bağlantıya tıklayınız.**](https://google.com)
 ***
-![Canım Çisemim karım.](https://icdn.turkiyegazetesi.com.tr/images/23-05/02/bulgur.jpg)
+![Altın rengi yüzük HAZELBYSTEEL](https://cdn.dsmcdn.com/ty558/product/media/images/20221012/12/191658220/594245435/1/1_org_zoom.jpg)
 ***
