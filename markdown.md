@@ -8,9 +8,10 @@
 
 *** italic bold
 
--list item 1
+-1 kilo bulgur.
+- 32TL canım.
 
-*list item 1 
+***Seni çok seviyorum.***
 
 [**Bağlantıya tıklayınız.**](https://google.com)
 ***
