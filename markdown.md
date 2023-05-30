@@ -1,20 +1,28 @@
-# BASLİK
-## ALT BASLİK 1 -> H2
-### ALT BASLİK 2 -> H3
+    # BASLİK
+    ## ALT BASLİK 1 -> H2
+    ### ALT BASLİK 2 -> H3
 
-*italic 
+    *italic 
 
-** bold
+    ** bold
 
-*** italic bold
+    *** italic bold
 
--Example
+    -Example
 
--Empty
+    -Empty
 
-******
+    ******
 
-[**Bağlantıya tıklayınız.**](https://google.com)
-***
-![Altın rengi yüzük HAZELBYSTEEL](https://cdn.dsmcdn.com/ty558/product/media/images/20221012/12/191658220/594245435/1/1_org_zoom.jpg)
-***
+    [**Bağlantıya tıklayınız.**](https://google.com)
+    ***
+    ![Altın rengi yüzük HAZELBYSTEEL](https://cdn.dsmcdn.com/ty558/product/media/images/20221012/12/191658220/594245435/1/1_org_zoom.jpg)
+    ***
+
+```pyhton
+print(helloworld)
+```
+```javascript
+console.log:("hello world")
+function helloWorld(){console.log:("hello world")}
+```
